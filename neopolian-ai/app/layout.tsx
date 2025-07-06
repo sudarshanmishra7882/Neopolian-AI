@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Neopolian AI",
-  description: "Neopolian AI made in Nepal by Sudarshan Mishra",
+  title: "Preeti AI",
+  description: "Preeti AI made in Nepal by Sudarshan Mishra",
 };
 
 export default function RootLayout({
