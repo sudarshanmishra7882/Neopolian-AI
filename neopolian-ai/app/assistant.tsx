@@ -28,7 +28,7 @@ export const Assistant = () => {
                 <BreadcrumbSeparator className="hidden md:block" />
                 <BreadcrumbItem>
                   <BreadcrumbPage>
-                    Neopolian AI
+                    Preeti AI
                   </BreadcrumbPage>
                 </BreadcrumbItem>
               </BreadcrumbList>
